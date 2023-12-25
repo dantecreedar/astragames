@@ -1,0 +1,28 @@
+.navbar {
+    background-color: #171A23 !important;
+    height: 70px !important;
+    box-sizing: border-box !important;
+    width: 100% !important;
+    color: whitesmoke;
+}
+
+.brand-img {
+    font-family: Arial, Helvetica, sans-serif !important;
+    float: left !important;
+    height: 70px !important;
+    position: relative !important;
+    width: 64px !important;
+    top: 0 !important;
+    bottom: 0 !important;
+    margin: auto !important;
+}
+
+.brand-img:hover {
+    color: #3f77d1 !important;
+}
+
+.navigation {
+    float: left !important;
+    line-height: 70px !important;
+    margin-left: 170px !important;
+}
